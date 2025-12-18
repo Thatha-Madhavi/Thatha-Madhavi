@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Madhavi Thatha</h1>
+<h1 align="center">Hi 👋, I'm Madhavi </h1>
 <h3 align="center">A passionate AI Specialist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thatha-madhavi&label=Profile%20views&color=0e75b6&style=flat" alt="thatha-madhavi" /> </p>
