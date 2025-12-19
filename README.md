@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thatha-madhavi" alt="thatha-madhavi" /></a> </p>
 
-- 🌱 I’m currently learning **Artificial Intelligence**
+- 🌱 **Artificial Intelligence Enthusiast**
 
 - 💬 Ask me about **Machine Learning**
 
